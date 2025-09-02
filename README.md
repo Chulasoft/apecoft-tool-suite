@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Powered by CoinGecko](https://img.shields.io/badge/Powered%20by-CoinGecko-brightgreen)](https://www.coingecko.com/)
-[![Data from Defilama](https://img.shields.io/badge/Data%20from-DefiLlama-purple)](https://defillama.com/)
+[![Data from DefiLlama](https://img.shields.io/badge/Data%20from-DefiLlama-purple)](https://defillama.com/)
 
 A collection of powerful, open-source utilities designed for decentralized finance (DeFi) enthusiasts. This suite provides a range of calculators, simulators, and analytical tools to help you make more informed decisions in the dynamic world of DeFi.
 
